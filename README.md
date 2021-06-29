@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m Santu, Welcome to my GitHub Profile
 - **📚 BCA Student**
 - **🌱 Exploring and Developing Telegram Bots**
-- **💻 Developer in [Code 𝕏 Botz](https://GitHub.com/GitHubsantu)**
+- **💻 Developer in [GitCode𝕏](https://GitHub.com/GitHubsantu)**
 
 # My Social Profiles
 <p align="center">
