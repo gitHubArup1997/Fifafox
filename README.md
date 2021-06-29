@@ -36,7 +36,7 @@
 <summary>Donate Me</summary>
 <p
   <a href="http;//upayi.me/mahatasantu@ybl">
-    <img src="https://www.freepngimg.com/thumb/web_design/48733-6-donate-free-download-image.png">
+    <img src="https://telegra.ph/file/3c81afe3eaa4d60af23f2.png" width=250">
   </a>
 </p>
 <br>
