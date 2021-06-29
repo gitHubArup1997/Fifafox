@@ -34,7 +34,7 @@
 
 <summary>Donate Me</summary>
 <p align="center">
-  <a href="https;//upayi.me/mahatasantu@ybl">
+  <a href="https;//upayi.me/mahatasantu@ybl" target="_blank">
     <img src="https://telegra.ph/file/3c81afe3eaa4d60af23f2.png" width=200">
   </a>
 </p>
