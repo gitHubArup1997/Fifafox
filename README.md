@@ -29,6 +29,9 @@
 </p>
 
 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=GitHubsantu&theme=highcontrast" align="center">
+</p>
 
 <summary>Donate Me</summary>
 <p align="center">
