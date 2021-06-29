@@ -34,6 +34,9 @@
 
 <details>
 <summary>Donate Me</summary>
+<a href="http;//upayi.me/mahatasantu@ybl">
+  <img src="https://www.freepngimg.com/thumb/web_design/48733-6-donate-free-download-image.png">
+</a>
 <br>
 <p align="center">
 <a href="https://upayi.me/mahatasantu@ybl" target="_blank"><img width="300" src="https://img.shields.io/badge/Donate%20Me-UPI-blue?logo=google-pay&style=for-the-badge" alt="Donations Badge"></a>
