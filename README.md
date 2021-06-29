@@ -8,7 +8,7 @@
 <a href="https://www.instagram/shahsad_klr" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/GitCode𝕏-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="https://twitter.shahsad" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/GitCode𝕏-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a>
 <a href="http://snapchat/hahsad_klr" target="_blank"><img alt="Snapchat" src="https://img.shields.io/badge/GitCode𝕏-a%23FFFC00.svg?&style=for-the-badge&logo=Snapchat&logoColor=white"/></a>
-<a href="https://t.me/GitCodex" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/GitCode𝕏-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="https://telegram.dog/GitCodex" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/GitCode𝕏-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 <a href="https://www.faceboo/shahsad.kl/" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/GitCode𝕏-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 <a href="https://www.reddituser/Shahsadkolathur/" target="_blank"><img alt="Reddit" src="https://img.shields.io/badge/GitCode𝕏-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></a>
 </p>
