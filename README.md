@@ -33,8 +33,8 @@
 </p>
 
 <details>
-<summary>Donate Me</summary>
-<p
+##Donate Me
+<p align="center">
   <a href="http;//upayi.me/mahatasantu@ybl">
     <img src="https://telegra.ph/file/3c81afe3eaa4d60af23f2.png" width=250">
   </a>
