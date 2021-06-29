@@ -28,15 +28,13 @@
 <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
+
+
+<summary>Donate Me</summary>
 <p align="center">
   <a href="https://upayi.me/mahatasantu@ybl">
     <img src="https://telegra.ph/file/3c81afe3eaa4d60af23f2.png">
   </a>
-</p>
-
-<summary>Donate Me</summary>
-<p align="center">
-<a href="https;//upayi.me/mahatasantu@ybl" target="_blank"><img width="200" src="https://telegra.ph/file/3c81afe3eaa4d60af23f2.png"</a>
 </p>
 <br>
 <p align="center">
