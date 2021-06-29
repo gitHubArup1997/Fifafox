@@ -40,6 +40,6 @@
 </p>
 <br>
 <p align="center">
-<a href="https://upayi.me/mahatasantu@ybl" target="_blank"><img width="300" src="https://img.shields.io/badge/Donate%20Me-UPI-blue?logo=google-pay&style=for-the-badge" alt="Donations Badge"></a>
+<a href="https://upayi.me/mahatasantu@ybl" target="_blank"><img width="200" src="https://img.shields.io/badge/Donate%20Me-UPI-blue?logo=google-pay&style=for-the-badge" alt="Donations Badge"></a>
 </p>
 
