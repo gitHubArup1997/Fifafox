@@ -1,7 +1,7 @@
-## 👋 Hi, I’m Santu, Welcome to my GitHub Profile
-- **📚 BCA Student**
-- **🌱 Exploring and Developing Telegram Bots**
-- **💻 Developer in [GitCode𝕏](https://GitHub.com/GitHubsantu)**
+## 👋 Hi, I’m Arup, Welcome to my GitHub Profile
+-
+- **🌱 Exploring and Developing Coding world**
+- **💻 Developer in [GitCode𝕏](https://GitHub.com/GitHubArup1997/Fifafox)**
 
 # My Social Profiles
 <p align="center">
